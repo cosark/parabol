@@ -5,6 +5,13 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 This CHANGELOG follows conventions [outlined here](http://keepachangelog.com/).
 
+## [15.20.1](https://github.com/ParabolInc/parabol/compare/v15.20.0...v15.20.1) (2026-11-07)
+
+
+### Changed
+
+* integration contributor kit and per-service file moves ([#14000](https://github.com/ParabolInc/parabol/issues/14000)) ([1728aff](https://github.com/ParabolInc/parabol/commit/1728affe657ddde12ee1268967c253c65edb5a2d))
+
 ## [15.20.0](https://github.com/ParabolInc/parabol/compare/v15.19.0...v15.20.0) (2026-11-07)
 
 
